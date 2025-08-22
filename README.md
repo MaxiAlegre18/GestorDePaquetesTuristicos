@@ -2,6 +2,8 @@
 
 Programa desarrollado en **Java** con Programación Orientada a Objetos que permite gestionar clientes, servicios turísticos (pasajes, alquileres, alojamiento, excursiones) y otros paquetes.
 
+Este proyecto fue realizado para el trabajo práctico de la materia Programación II.
+
 ---
 
 ## Tecnologías utilizadas
