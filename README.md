@@ -19,3 +19,11 @@ Programa desarrollado en **Java** con Programación Orientada a Objetos que perm
 ---
 
 ## Diagrama de clases (POO)
+
+![Diagrama de clases](docs/diagramaClases.png)
+
+---
+
+## Autores
+- Alegre Maximiliano
+- Ibarra Milagros
